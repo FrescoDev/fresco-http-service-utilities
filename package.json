@@ -1,0 +1,19 @@
+{
+  "name": "fresco-http-service-utilities",
+  "version": "1.0.0",
+  "description": "Reusable packages containing non service-domain specific HTTP service utility functions and assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrescoDev/fresco-http-service-utilities.git"
+  },
+  "author": "frescoDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrescoDev/fresco-http-service-utilities/issues"
+  },
+  "homepage": "https://github.com/FrescoDev/fresco-http-service-utilities#readme"
+}
